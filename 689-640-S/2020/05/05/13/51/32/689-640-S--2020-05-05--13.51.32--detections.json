@@ -1,0 +1,30 @@
+{
+  "id": "689-640-S--2020-05-05--13.51.32--detections",
+  "model": "ResNet50_COCO_best_v2.0.1.h5",
+  "summary": {
+    "total": 2,
+    "person": 2
+  },
+  "689-640-S--2020-05-05--13.51.32--detections--1--person--40.9--6x18--42.179v48.197": {
+    "type": "person",
+    "id": "689-640-S--2020-05-05--13.51.32--detections--1--person--40.9--6x18--42.179v48.197",
+    "percentage_probability": 40.92710614204407,
+    "box_points": [
+      42,
+      179,
+      48,
+      197
+    ]
+  },
+  "689-640-S--2020-05-05--13.51.32--detections--2--person--47.6--6x15--56.200v62.215": {
+    "type": "person",
+    "id": "689-640-S--2020-05-05--13.51.32--detections--2--person--47.6--6x15--56.200v62.215",
+    "percentage_probability": 47.553619742393494,
+    "box_points": [
+      56,
+      200,
+      62,
+      215
+    ]
+  }
+}

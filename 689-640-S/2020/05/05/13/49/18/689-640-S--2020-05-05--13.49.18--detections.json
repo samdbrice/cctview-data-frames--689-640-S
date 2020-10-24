@@ -1,0 +1,31 @@
+{
+  "id": "689-640-S--2020-05-05--13.49.18--detections",
+  "model": "ResNet50_COCO_best_v2.0.1.h5",
+  "summary": {
+    "total": 2,
+    "motorcycle": 1,
+    "car": 1
+  },
+  "689-640-S--2020-05-05--13.49.18--detections--1--motorcycle--38.9--24x31--130.101v154.132": {
+    "type": "motorcycle",
+    "id": "689-640-S--2020-05-05--13.49.18--detections--1--motorcycle--38.9--24x31--130.101v154.132",
+    "percentage_probability": 38.923755288124084,
+    "box_points": [
+      130,
+      101,
+      154,
+      132
+    ]
+  },
+  "689-640-S--2020-05-05--13.49.18--detections--2--car--45.1--24x31--130.101v154.132": {
+    "type": "car",
+    "id": "689-640-S--2020-05-05--13.49.18--detections--2--car--45.1--24x31--130.101v154.132",
+    "percentage_probability": 45.14515697956085,
+    "box_points": [
+      130,
+      101,
+      154,
+      132
+    ]
+  }
+}
